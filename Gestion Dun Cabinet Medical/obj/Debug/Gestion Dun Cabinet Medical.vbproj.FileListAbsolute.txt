@@ -1,0 +1,78 @@
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe.config
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.pdb
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.xml
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Resources.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.GenerateResource.Cache
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.exe
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.xml
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.pdb
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.StartForm.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_médicaments.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_patients.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_rendez_vous.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Medicaments.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Patient.resources
+C:\Users\GuezGuez\Desktop\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_RendezVous.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe.config
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.exe
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.xml
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.pdb
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.pdb
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.xml
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Medicaments.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Patient.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_RendezVous.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_médicaments.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_patients.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_rendez_vous.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.StartForm.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Resources.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.GenerateResource.Cache
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Bunifu_UI_v1.4.dll
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Notification.resources
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbprojResolveAssemblyReference.cache
+D:\Nouveau dossier22\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.test.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe.config
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.exe
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.xml
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.pdb
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.pdb
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.xml
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbprojAssemblyReference.cache
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Medicaments.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Patient.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_RendezVous.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_médicaments.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_patients.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_rendez_vous.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Notification.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.StartForm.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Resources.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.test.resources
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.GenerateResource.cache
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.CopyComplete
+D:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.CoreCompileInputs.cache
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe.config
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.exe
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.pdb
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\bin\Debug\Gestion Dun Cabinet Medical.xml
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbprojAssemblyReference.cache
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Medicaments.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_Patient.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Ajouter_RendezVous.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_médicaments.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_patients.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Gestion_des_rendez_vous.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Notification.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.StartForm.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.Resources.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion_Dun_Cabinet_Medical.test.resources
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.GenerateResource.cache
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.CoreCompileInputs.cache
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.vbproj.CopyComplete
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.exe
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.xml
+E:\My Projects\Program\Project\Program\Gestion Dun Cabinet Medical\Gestion Dun Cabinet Medical\obj\Debug\Gestion Dun Cabinet Medical.pdb
